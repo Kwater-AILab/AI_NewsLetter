@@ -10,3 +10,11 @@ AI연구센터에서 정기적으로 발간하는 AI 뉴스레터입니다. <br>
 
 ### 뉴스형식
  ![AI뉴스레터_창간호_뉴스_표지](https://user-images.githubusercontent.com/96035289/203706638-fc7b17f5-6b0b-4fa5-ba29-a8582f118af4.png)
+
+
+### Hands-On Project 코랩 링크
+1) Water_Quality <br>
+   https://colab.research.google.com/drive/1p5cki_3KWsj1Ff52okNKWnb89Fgwt_pq?usp=sharing
+   
+2) Fake_News_Detection <br>
+   https://colab.research.google.com/drive/19U5YHHWn-lQaA_XtF8tTiPC7UnErATLP?usp=sharing
