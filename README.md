@@ -13,8 +13,16 @@ AI연구센터에서 정기적으로 발간하는 AI 뉴스레터입니다. <br>
 
 
 ### Hands-On Project 코랩 링크
-1) Water_Quality <br>
+1) (창간호) Water_Quality <br>
    https://colab.research.google.com/drive/1p5cki_3KWsj1Ff52okNKWnb89Fgwt_pq?usp=sharing
    
-2) Fake_News_Detection <br>
+2) (창간호) Fake_News_Detection <br>
    https://colab.research.google.com/drive/19U5YHHWn-lQaA_XtF8tTiPC7UnErATLP?usp=sharing
+   
+3) (2호) 수도공급량 분석(시계열) <br>
+   Time Series Analysis for Water Demand <br>
+   https://colab.research.google.com/drive/147K1QZFHml97fm8_wVgrzpi12gNF3G38?usp=sharing
+   
+4) (2호) 뉴스 텍스트 분석(가짜뉴스 part2)   
+   EDA for Fake and True News <br>
+   https://colab.research.google.com/drive/1r1SCGvYHpNEf7DavUoqAUsdapqhB2eZL?usp=sharing
