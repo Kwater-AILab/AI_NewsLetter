@@ -26,3 +26,7 @@ AI연구센터에서 정기적으로 발간하는 AI 뉴스레터입니다. <br>
 4) (2호) 뉴스 텍스트 분석(가짜뉴스 part2)   
    EDA for Fake and True News <br>
    https://colab.research.google.com/drive/1r1SCGvYHpNEf7DavUoqAUsdapqhB2eZL?usp=sharing
+   
+5) (3호) 자연어 전처리 및 응용   
+   NLP Pre-processing & Simple Applications <br>
+   https://colab.research.google.com/drive/1PpnFYMxFfIXlIgHvP7NMa9oSwiW-6HIn?usp=sharing`
