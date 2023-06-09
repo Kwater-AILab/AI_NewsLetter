@@ -30,3 +30,11 @@ AI연구센터에서 정기적으로 발간하는 AI 뉴스레터입니다. <br>
 5) (3호) 자연어 전처리 및 응용   
    NLP Pre-processing & Simple Applications <br>
    https://colab.research.google.com/drive/1PpnFYMxFfIXlIgHvP7NMa9oSwiW-6HIn?usp=sharing`
+ 
+6) (4호) 로우 코딩(pycaret)   
+   pycaret Tutorial <br>
+   https://colab.research.google.com/drive/1tsU2UtZLWfg6AoX6TJfWKrkxB7JJLS6w?usp=sharing
+   
+7) (4호) 유투브 요약기   
+   Youtube Summarizer <br>
+   https://colab.research.google.com/drive/12k1yn1y5dRNgEX4KYsc0f-5VcM1up6ng?usp=sharing   
