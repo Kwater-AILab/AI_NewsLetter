@@ -38,3 +38,12 @@ AI연구센터에서 정기적으로 발간하는 AI 뉴스레터입니다. <br>
 7) (4호) 유투브 요약기   
    Youtube Summarizer <br>
    https://colab.research.google.com/drive/12k1yn1y5dRNgEX4KYsc0f-5VcM1up6ng?usp=sharing   
+
+8) (5호) 나만의 ChatGPT만들기   
+   Chatbot_Openai <br>
+   https://colab.research.google.com/drive/1253BKQp2RZXRVPjKLGT344s6VHF6X8UO#scrollTo=uEq_-SAn7E0-   
+
+9) (5호) PandasAI      
+   Chatbot_Openai_PandasAI <br>
+   https://colab.research.google.com/drive/1dOuVPHzPHdeyc9sSZCuSBNStuBWoi0r8#scrollTo=MmosZgCk5d4y
+   
